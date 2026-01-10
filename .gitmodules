@@ -5,6 +5,9 @@
 [submodule "algebraic.dist"]
 	path = algebraic.dist
 	url = https://github.com/queelius/algebraic.dist
+[submodule "algebraic.mle"]
+	path = algebraic.mle
+	url = https://github.com/queelius/algebraic.mle
 [submodule "hypothesize"]
 	path = hypothesize
 	url = https://github.com/queelius/hypothesize
