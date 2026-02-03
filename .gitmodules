@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/queelius/queelius.r-universe.dev
 	branch = HEAD
 [submodule "algebraic.dist"]
 	path = algebraic.dist
@@ -8,6 +8,18 @@
 [submodule "algebraic.mle"]
 	path = algebraic.mle
 	url = https://github.com/queelius/algebraic.mle
+[submodule "compositional.mle"]
+	path = compositional.mle
+	url = https://github.com/queelius/compositional.mle
+[submodule "femtograd"]
+	path = femtograd
+	url = https://github.com/queelius/femtograd
 [submodule "hypothesize"]
 	path = hypothesize
 	url = https://github.com/queelius/hypothesize
+[submodule "likelihood.model"]
+	path = likelihood.model
+	url = https://github.com/queelius/likelihood.model
+[submodule "nabla"]
+	path = nabla
+	url = https://github.com/queelius/nabla
