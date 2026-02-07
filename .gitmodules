@@ -11,6 +11,9 @@
 [submodule "compositional.mle"]
 	path = compositional.mle
 	url = https://github.com/queelius/compositional.mle
+[submodule "dfr.dist"]
+	path = dfr.dist
+	url = https://github.com/queelius/dfr.dist
 [submodule "femtograd"]
 	path = femtograd
 	url = https://github.com/queelius/femtograd
