@@ -26,9 +26,6 @@
 [submodule "likelihood.model.series.md"]
 	path = likelihood.model.series.md
 	url = https://github.com/queelius/likelihood.model.series.md
-[submodule "md.tools"]
-	path = md.tools
-	url = https://github.com/queelius/md.tools
 [submodule "nabla"]
 	path = nabla
 	url = https://github.com/queelius/nabla
