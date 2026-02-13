@@ -14,6 +14,9 @@
 [submodule "dfr.dist"]
 	path = dfr.dist
 	url = https://github.com/queelius/dfr.dist
+[submodule "dfr.dist.series"]
+	path = dfr.dist.series
+	url = https://github.com/queelius/dfr.dist.series
 [submodule "femtograd"]
 	path = femtograd
 	url = https://github.com/queelius/femtograd
