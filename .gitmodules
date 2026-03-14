@@ -20,6 +20,9 @@
 [submodule "hypothesize"]
 	path = hypothesize
 	url = https://github.com/queelius/hypothesize
+[submodule "kofn"]
+	path = kofn
+	url = https://github.com/queelius/kofn
 [submodule "likelihood.model"]
 	path = likelihood.model
 	url = https://github.com/queelius/likelihood.model
