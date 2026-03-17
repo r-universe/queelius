@@ -23,6 +23,9 @@
 [submodule "kofn"]
 	path = kofn
 	url = https://github.com/queelius/kofn
+[submodule "likelihood.contr"]
+	path = likelihood.contr
+	url = https://github.com/queelius/likelihood.contr
 [submodule "likelihood.model"]
 	path = likelihood.model
 	url = https://github.com/queelius/likelihood.model
